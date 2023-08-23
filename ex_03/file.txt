@@ -1,0 +1,11 @@
+3 6 17 
+15 13 15 
+6 12 9 
+
+ROW 1 8.67 
+ROW 2 14.33 
+ROW 3 9.00 
+
+Average 8.67 
+Average 14.33 
+Average 9.00 
